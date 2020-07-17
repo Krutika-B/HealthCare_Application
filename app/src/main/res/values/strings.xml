@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">HealthCare</string>
+    <string name="app_image_name">Application Logo Name</string>
+    <string name="login_for_hospital">Organization Login</string>
+    <string name="login_for_patient">Login</string>
+    <string name="login">Login</string>
+    <string name="Sign_UP">Sign UP</string>
+    <string name="SubHeading">Live long</string>
+    <string name="patientRegistration">Registration</string>
+</resources>
